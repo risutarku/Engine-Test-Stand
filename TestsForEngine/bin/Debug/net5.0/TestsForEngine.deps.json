@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestsForEngine/1.0.0": {
+        "dependencies": {
+          "TestService": "1.0.0"
+        },
+        "runtime": {
+          "TestsForEngine.dll": {}
+        }
+      },
+      "TestService/1.0.0": {
+        "runtime": {
+          "TestService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestsForEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

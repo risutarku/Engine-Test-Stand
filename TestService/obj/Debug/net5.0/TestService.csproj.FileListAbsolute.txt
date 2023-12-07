@@ -1,0 +1,12 @@
+D:\vitek\C#\TestsForEngine\TestService\bin\Debug\net5.0\TestService.deps.json
+D:\vitek\C#\TestsForEngine\TestService\bin\Debug\net5.0\TestService.dll
+D:\vitek\C#\TestsForEngine\TestService\bin\Debug\net5.0\TestService.pdb
+D:\vitek\C#\TestsForEngine\TestService\obj\Debug\net5.0\TestService.csproj.AssemblyReference.cache
+D:\vitek\C#\TestsForEngine\TestService\obj\Debug\net5.0\TestService.GeneratedMSBuildEditorConfig.editorconfig
+D:\vitek\C#\TestsForEngine\TestService\obj\Debug\net5.0\TestService.AssemblyInfoInputs.cache
+D:\vitek\C#\TestsForEngine\TestService\obj\Debug\net5.0\TestService.AssemblyInfo.cs
+D:\vitek\C#\TestsForEngine\TestService\obj\Debug\net5.0\TestService.csproj.CoreCompileInputs.cache
+D:\vitek\C#\TestsForEngine\TestService\obj\Debug\net5.0\TestService.dll
+D:\vitek\C#\TestsForEngine\TestService\obj\Debug\net5.0\refint\TestService.dll
+D:\vitek\C#\TestsForEngine\TestService\obj\Debug\net5.0\TestService.pdb
+D:\vitek\C#\TestsForEngine\TestService\obj\Debug\net5.0\ref\TestService.dll
